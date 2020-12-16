@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\bin\Debug\netcoreapp3.1\Listas-de-objetos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Listas-de-objetos\obj\Debug\netcoreapp3.1\Listas-de-objetos.genruntimeconfig.cache
